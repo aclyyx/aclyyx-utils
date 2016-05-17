@@ -55,7 +55,7 @@ public class StringUtil {
     }
 
     /**
-     *对传入字符串进行SHA1编码并返回
+     * 对传入字符串进行SHA1编码并返回
      * @param string 待编码字符串
      * @return SHA1
      */
